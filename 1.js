@@ -95,7 +95,7 @@ else if (x >= 366) console.log ('Укажите число до 365 включи
 
 switch (true) {
     case x <= 90:
-        console.log ("Зима");
+        console.log ('Зима');
       break;
     case x >= 91 && x <= 181:
         console.log ('Весна');
